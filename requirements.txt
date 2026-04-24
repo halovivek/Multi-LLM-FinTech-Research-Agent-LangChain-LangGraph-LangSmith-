@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+openai
+anthropic
+google-generativeai
+streamlit
+yfinance
+pandas
+numpy
+pydantic
+pytest
